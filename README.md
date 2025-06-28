@@ -1,4 +1,4 @@
-# 🚀 Subscription Tracker API
+# 🚀 TrackerX : Subscription Tracker API
 
 <div align="center">
   
@@ -10,7 +10,7 @@
   ![Upstash](https://img.shields.io/badge/Upstash-Workflows-purple.svg)
 
   
-  *My first REST API project featuring user authentication, subscription management, and automated email workflows*
+  *This is a Subscription Tracker API featuring user authentication, subscription management, and automated email reminders*
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 📖 About This Project
 
-This is my **first REST API project** as a student! I built this Subscription Tracker API to help users manage their various subscriptions (Netflix, Spotify, etc.) with automated email reminders. The project demonstrates modern backend development practices including authentication, database design, workflow automation, and email services.
+I have built this REST API to help users manage their various subscriptions (Netflix, Spotify, etc.) with automated email reminders. The project demonstrates modern backend development practices including authentication, database design, workflow automation, and email services.
 
 ## ✨ Key Features
 
