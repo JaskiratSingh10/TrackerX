@@ -237,7 +237,8 @@ POST /api/v0/workflows/subscription/reminder  # Trigger email workflow
        "frequency": "monthly",
        "category": "entertainment",
        "paymentMethod": "Credit Card",
-       "startDate": "2025-06-28"
+       "startDate": "2025-06-28",
+        "renewalDate":"2025-06-27"
      }'
    ```
 
