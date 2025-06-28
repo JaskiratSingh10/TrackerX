@@ -9,9 +9,8 @@
   ![JWT](https://img.shields.io/badge/JWT-Authentication-orange.svg)
   ![Upstash](https://img.shields.io/badge/Upstash-Workflows-purple.svg)
 
-  **A comprehensive subscription management API built by a student developer**
   
-  *My first complete REST API project featuring user authentication, subscription management, and automated email workflows*
+  *My first REST API project featuring user authentication, subscription management, and automated email workflows*
 
 </div>
 
@@ -121,7 +120,7 @@ The automated email reminder system follows this sophisticated workflow:
 The system sends beautiful, responsive HTML emails that look like this:
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x800/667eea/white?text=TrackerX+Email+Template" alt="Email Template Preview" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="./email-template-preview.png" alt="Email Template Preview" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   
   *Modern gradient design with clear subscription details and call-to-action buttons*
 </div>
