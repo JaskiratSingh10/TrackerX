@@ -120,7 +120,7 @@ The automated email reminder system follows this sophisticated workflow:
 The system sends beautiful, responsive HTML emails that look like this:
 
 <div align="center">
-  <img src="./email-template-preview.png" alt="Email Template Preview" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="./email-template-preview1.png" alt="Email Template Preview" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   
   *Modern gradient design with clear subscription details and call-to-action buttons*
 </div>
