@@ -18,7 +18,7 @@
 
 ## 📖 About This Project
 
-I have built this REST API to help users manage their various subscriptions (Netflix, Spotify, etc.) with automated email reminders. The project demonstrates modern backend development practices including authentication, database design, workflow automation, and email services.
+I have built this REST API to help users manage their various subscriptions (Netflix, Spotify, etc.) with automated email reminders. This project showcases backend essentials like user login, database integration and email reminders.
 
 ## ✨ Key Features
 
